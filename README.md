@@ -2,11 +2,16 @@
 
 A simple Anki add-on to globally disable all Text-to-Speech (TTS) playback.
 
-[![Version](https://img.shields.io/badge/version-v1.44.8-blue)](https://github.com/voothi/20250902105308-anki-no-tts) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-v1.44.8-blue)](https://github.com/voothi/20250902105308-anki-no-tts)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-> **Note:** This add-on is based on the official "No TTS" example from the [Anki Add-ons repository](https://github.com/ankitects/anki-addons/tree/main/code/no_tts).
+> **Attribution and License Notice**
+>
+> This add-on is based on the official "No TTS" example from the [Anki Add-ons repository](https://github.com/ankitects/anki-addons/tree/main/code/no_tts).
+>
+> The original code is **Copyright © Ankitects Pty Ltd and contributors** and is licensed under the **GNU AGPL, version 3 or later**. In accordance with its terms, this derivative work is also licensed under the same license.
 
-This is a minimalist add-on for users who want to temporarily or permanently silence all TTS fields (`{{tts...}}`) in their Anki cards without needing to edit their card templates.
+This minimalist add-on allows users to temporarily or permanently silence all TTS fields (`{{tts...}}`) in their Anki cards without needing to edit their card templates.
 
 ## Table of Contents
 
@@ -52,6 +57,6 @@ Once installed, the add-on is active and will prevent any TTS audio from playing
 
 ## License
 
-[MIT](./LICENSE)
+This add-on is licensed under the [GNU AGPL, version 3 or later](https://www.gnu.org/licenses/agpl.html).
 
 [Back to Top](#table-of-contents)
