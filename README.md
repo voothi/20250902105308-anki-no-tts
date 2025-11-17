@@ -2,7 +2,7 @@
 
 A simple Anki add-on to globally disable all Text-to-Speech (TTS) playback.
 
-[![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/voothi/20250902105308-anki-no-tts) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-v1.44.8-blue)](https://github.com/voothi/20250902105308-anki-no-tts) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a minimalist add-on for users who want to temporarily or permanently silence all TTS fields (`{{tts...}}`) in their Anki cards without needing to edit their card templates.
 
