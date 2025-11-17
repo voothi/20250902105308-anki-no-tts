@@ -4,6 +4,8 @@ A simple Anki add-on to globally disable all Text-to-Speech (TTS) playback.
 
 [![Version](https://img.shields.io/badge/version-v1.44.8-blue)](https://github.com/voothi/20250902105308-anki-no-tts) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> **Note:** This add-on is based on the official "No TTS" example from the [Anki Add-ons repository](https://github.com/ankitects/anki-addons/tree/main/code/no_tts).
+
 This is a minimalist add-on for users who want to temporarily or permanently silence all TTS fields (`{{tts...}}`) in their Anki cards without needing to edit their card templates.
 
 ## Table of Contents
@@ -21,6 +23,7 @@ This is a minimalist add-on for users who want to temporarily or permanently sil
 -   **Zero Configuration**: Just install and it works.
 -   **Global Mute**: Disables all TTS triggers across all decks and note types.
 -   **Easily Toggled**: Enable or disable the effect by simply toggling the add-on in Anki's add-on manager.
+-   **No Template Editing**: Silences audio without requiring any changes to your card templates.
 
 [Back to Top](#table-of-contents)
 
@@ -43,9 +46,7 @@ Once installed, the add-on is active and will prevent any TTS audio from playing
 
 ## Related Projects
 
-This add-on is part of a suite of tools for managing TTS in Anki. If you want to enhance TTS with offline capabilities instead of disabling it, check out its companion add-on:
-
--   [**gTTS Player with Piper Fallback for Anki**](https://github.com/voothi/20250421115831-anki-gtts-player): An advanced TTS solution that provides an offline, local fallback using the high-quality Piper TTS engine.
+-   [**gTTS Player with Piper Fallback for Anki**](https://github.com/voothi/20250421115831-anki-gtts-player): For users who want to enhance TTS with offline capabilities instead of disabling it, this add-on provides a resilient solution with a local fallback engine.
 
 [Back to Top](#table-of-contents)
 
