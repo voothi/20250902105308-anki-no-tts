@@ -23,6 +23,8 @@ This minimalist add-on allows users to temporarily or permanently silence all TT
   - [Related Projects](#related-projects)
   - [License](#license)
 
+---
+
 ## Features
 
 -   **Zero Configuration**: Just install and it works.
