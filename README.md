@@ -21,7 +21,10 @@ This minimalist add-on allows users to temporarily or permanently silence all TT
   - [Installation](#installation)
   - [Usage](#usage)
   - [Related Projects](#related-projects)
+  - [Kardenwort Ecosystem](#kardenwort-ecosystem)
   - [License](#license)
+
+---
 
 ## Features
 
@@ -54,6 +57,12 @@ Once installed, the add-on is active and will prevent any TTS audio from playing
 -   [**gTTS Player with Piper Fallback for Anki**](https://github.com/voothi/20250421115831-anki-gtts-player): For users who want to enhance TTS with offline capabilities instead of disabling it, this add-on provides a resilient solution with a local fallback engine.
 
 [Back to Top](#table-of-contents)
+
+## Kardenwort Ecosystem
+
+This project is part of the **[Kardenwort](https://github.com/kardenwort)** environment, designed to create a focused and efficient learning ecosystem.
+
+[Return to Top](#table-of-contents)
 
 ## License
 
